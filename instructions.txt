@@ -2,5 +2,6 @@
 * chop onion
 * squeeze lime
 * add salt and pepper
+* Add water
 * and mix well
 * enjoy!
