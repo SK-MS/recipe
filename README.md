@@ -1,4 +1,4 @@
 # Guacamole recipe
 
-Used in teaching Git.
+Used in teaching and learning Git.
 That is a good thing. 
